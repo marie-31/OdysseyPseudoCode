@@ -1,0 +1,7 @@
+
+entier n
+ecrire "entrer un nombre"
+lire n
+pour i de 1 à n faire
+  ecrire "Bienvenue à la wild"
+fin pour
